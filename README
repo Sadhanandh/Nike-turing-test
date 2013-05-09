@@ -1,0 +1,19 @@
+This is strictly for education purpose only.
+Do not use it in your program to sell it.
+
+
+Nike changed their statergy of RSVP marketing to disuade bots but the new one isnt Bot proof.
+
+This bot passes the turing test.
+
+I have collected a recent sample of nike images released all across US.
+This is able to give a 10/16 correct strike.
+Which is good enough.
+(Im using the open source tesseract OCR using sone other OCR with pre image enhancement may increase it further.)
+
+To run ->
+
+python doall.py
+
+The ROI is marked by Red but the actuall area gets a green strike.
+
